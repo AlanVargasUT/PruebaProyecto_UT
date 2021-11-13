@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="0.0100" tests="2" failures="0">
+  <testsuite name="Root Suite" timestamp="2021-11-13T01:17:11" tests="0" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="Temperature Conversor" timestamp="2021-11-13T01:17:11" tests="0" file="C:\Users\alan1\Desktop\Cuatri 10\Gestion de proceso de desarrollo de software\UN3\unit-testing-javascript-mocha\test\converter.js" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="Celsius to Fahrenheit conversion" timestamp="2021-11-13T01:17:11" tests="1" file="C:\Users\alan1\Desktop\Cuatri 10\Gestion de proceso de desarrollo de software\UN3\unit-testing-javascript-mocha\test\converter.js" time="0.0040" failures="0">
+    <testcase name="Temperature Conversor Celsius to Fahrenheit conversion converts 100c to Fhrenheit" time="0.0010" classname="converts 100c to Fhrenheit">
+    </testcase>
+  </testsuite>
+  <testsuite name="Celsius to Fahrenheit conversion" timestamp="2021-11-13T01:17:11" tests="1" file="C:\Users\alan1\Desktop\Cuatri 10\Gestion de proceso de desarrollo de software\UN3\unit-testing-javascript-mocha\test\converter.js" time="0.0030" failures="0">
+    <testcase name="Temperature Conversor Celsius to Fahrenheit conversion converts 100c to Fhrenheit" time="0.0010" classname="converts 100c to Fhrenheit">
+    </testcase>
+  </testsuite>
+</testsuites>
